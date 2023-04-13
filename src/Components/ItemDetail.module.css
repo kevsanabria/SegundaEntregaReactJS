@@ -1,0 +1,10 @@
+img{
+    max-width: 800px;
+}
+.container{
+    max-width: 1000px;
+    height: 800px;
+}
+
+.body{
+    height: inherit ;}
